@@ -1,4 +1,4 @@
-### **1️⃣ Asteroid Dataset: Data Cleaning & Exploratory Data Analysis
+### Asteroid Dataset: Data Cleaning & Exploratory Data Analysis
 
 This project focuses on preparing and exploring the asteroid dataset to understand its structure and key characteristics.
 
